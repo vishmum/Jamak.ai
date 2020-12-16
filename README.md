@@ -1,4 +1,5 @@
-# Low Cost Laptop Shell
+# Jamak.ai
+### Low Cost Laptop Shell
 
 ![laptop](https://www.droid-life.com/wp-content/uploads/2018/01/Razer-Project-Linda-980x653.jpg)
 
